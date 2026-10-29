@@ -1,0 +1,3 @@
+Mediabunny 1.63.0, unmodified browser bundle. License: Mozilla Public License 2.0; see mediabunny-LICENSE.
+Corresponding source package: https://registry.npmjs.org/mediabunny/-/mediabunny-1.63.0.tgz
+Project: https://github.com/Vanilagy/mediabunny
